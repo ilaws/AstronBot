@@ -1,0 +1,1 @@
+AI was used in this project in order to help me interface the API with the Slack bot.
